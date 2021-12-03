@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/ps4.dir/main.c.o CMakeFiles/ps4.dir/node.c.o CMakeFiles/ps4.dir/stack.c.o CMakeFiles/ps4.dir/rpn.c.o CMakeFiles/ps4.dir/error.c.o -o ps4 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="docker (f2b71672-e02f-4766-86a4-d04fb02f2509)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ps4" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-docker" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-docker" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="field, type docker (9cf02d35-7edc-4cc8-a85e-d24941f967f9)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ps4" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-docker" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-docker" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

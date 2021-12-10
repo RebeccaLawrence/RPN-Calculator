@@ -9,6 +9,7 @@
 #include "stack.h"
 #include "errors.h"
 
+''
 
 double recursivePower(double num1, double num2){
     double result;

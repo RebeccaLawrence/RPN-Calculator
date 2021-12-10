@@ -10,6 +10,9 @@
 #include "errors.h"
 
 
+//adding stuff to see where it goes
+
+
 double recursivePower(double num1, double num2){
     double result;
     if (0 < num2 < 1) {

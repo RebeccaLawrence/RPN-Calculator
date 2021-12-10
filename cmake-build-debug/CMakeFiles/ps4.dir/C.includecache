@@ -6,6 +6,26 @@
 
 #IncludeRegexTransform: 
 
+/tmp/ps4/errors.h
+
+/tmp/ps4/main.c
+stdio.h
+-
+stdlib.h
+-
+rpn .h
+/tmp/ps4/rpn .h
+errors.h
+/tmp/ps4/errors.h
+
+/tmp/ps4/node.c
+stdlib.h
+-
+stdio.h
+-
+node.h
+/tmp/ps4/node.h
+
 /tmp/ps4/node.h
 
 /tmp/ps4/rpn .h
@@ -21,6 +41,8 @@ rpn .h
 /tmp/ps4/rpn .h
 stack.h
 /tmp/ps4/stack.h
+errors.h
+/tmp/ps4/errors.h
 
 /tmp/ps4/stack.h
 node.h

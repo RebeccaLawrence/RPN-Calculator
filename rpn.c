@@ -9,10 +9,7 @@
 #include "stack.h"
 #include "errors.h"
 
-
-//adding stuff to see where it goes
-//trying to add stuff to PS5
-//adding moree
+//changing it again to see if it adds
 
 
 double recursivePower(double num1, double num2){
